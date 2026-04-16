@@ -62,4 +62,3 @@ Para todos los experimentos se definieron los siguientes hiperparámetros evolut
 3.  **Optimización:** El uso de `PyGAD` facilita la integración de lógica evolutiva en flujos de trabajo estándar de Scikit-Learn.
 
 ---
-**Enlace al Repositorio:** [Inserta aquí tu link de GitHub]
