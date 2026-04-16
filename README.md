@@ -1,8 +1,6 @@
-# Resumen Ejecutivo: Algoritmos Genéticos en Machine Learning
-
-[cite_start]**Institución:** Universidad Nacional del Altiplano - Puno [cite: 1]  
-[cite_start]**Facultad:** Ingeniería Mecánica Eléctrica, Electrónica y Sistemas (FIMEES) [cite: 5]  
-**Actividad:** 02 - Optimización Evolutiva  
+# Resumen: Algoritmos Genéticos
+ 
+**Actividad:** 02
 
 ---
 
